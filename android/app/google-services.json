@@ -1,0 +1,81 @@
+{
+  "project_info": {
+    "project_number": "963627114564",
+    "project_id": "sima-38af2",
+<<<<<<< HEAD
+    "storage_bucket": "sima-38af2.appspot.com"
+=======
+    "storage_bucket": "sima-38af2.firebasestorage.app"
+>>>>>>> f31f635 (Mobile new features)
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963627114564:android:457db5993ca45f58795c11",
+        "android_client_info": {
+          "package_name": "com.simascanreceiptinvoice"
+        }
+      },
+      "oauth_client": [
+        {
+<<<<<<< HEAD
+          "client_id": "963627114564-b0238d48gbp6iu2lqp6k6m9bi3elj5bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simascanreceiptinvoice",
+            "certificate_hash": "398d5ac3f90c16e03169bc70f0d236a6c6504404"
+          }
+        },
+        {
+          "client_id": "963627114564-rmvn1ajb26oo4tj3fl4vq9v2i1lvclhi.apps.googleusercontent.com",
+=======
+          "client_id": "963627114564-tte2alqjp4f858nke44vpo0s6f9v9u7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simascanreceiptinvoice",
+            "certificate_hash": "287d5075fed8c7045594f9543c0f733628cba743"
+          }
+        },
+        {
+          "client_id": "963627114564-qm7lf3sgebn4qqkadto2ollib3ov5abt.apps.googleusercontent.com",
+>>>>>>> f31f635 (Mobile new features)
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIft-ixOhLJON2XuvehLvU_DYfP2q6ANo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+<<<<<<< HEAD
+              "client_id": "963627114564-rmvn1ajb26oo4tj3fl4vq9v2i1lvclhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963627114564-t6l59kr9p4limlnq454584m0gllgld88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simaprojectscan"
+=======
+              "client_id": "963627114564-qm7lf3sgebn4qqkadto2ollib3ov5abt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963627114564-3arf4nsar2mjt6ciogujtcc0kjetj7dc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simascanreceiptinvoice"
+>>>>>>> f31f635 (Mobile new features)
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

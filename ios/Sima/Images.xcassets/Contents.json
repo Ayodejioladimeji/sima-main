@@ -1,0 +1,16 @@
+{
+  "info" : {
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "author" : "xcode",
+    "version" : 1
+=======
+    "version" : 1,
+    "author" : "xcode"
+>>>>>>> 6fcaa3b (Initial commit)
+=======
+    "author" : "xcode",
+    "version" : 1
+>>>>>>> f31f635 (Mobile new features)
+  }
+}

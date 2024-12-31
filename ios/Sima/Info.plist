@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
+	<string>Sima-Scan</string>
+=======
+	<string>Sima</string>
+>>>>>>> 6fcaa3b (Initial commit)
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f31f635 (Mobile new features)
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.simascanreceiptinvoice</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.963627114564-3arf4nsar2mjt6ciogujtcc0kjetj7dc</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.simascanreceiptinvoice</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>simascanproject</string>
+			</array>
+		</dict>
+	</array>
+<<<<<<< HEAD
+=======
+>>>>>>> 6fcaa3b (Initial commit)
+=======
+>>>>>>> f31f635 (Mobile new features)
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+<<<<<<< HEAD
+<<<<<<< HEAD
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Sima-Scan needs access to your camera for scanning documents and receipts directly within the app. This feature enables you to easily capture and store important documents.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string></string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Sima-Scan requires access to your photo library to select and upload photos of documents and receipts. This allows you to store and manage your digital copies within the app.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>AvenirLTStd-Black.otf</string>
+		<string>AvenirLTStd-Book.otf</string>
+		<string>AvenirLTStd-Roman.otf</string>
+		<string>OpenSans-Bold.ttf</string>
+		<string>OpenSans-Medium.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-SemiBold.ttf</string>
+	</array>
+=======
+	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
+=======
+>>>>>>> f31f635 (Mobile new features)
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Sima-Scan needs access to your camera for scanning documents and receipts directly within the app. This feature enables you to easily capture and store important documents.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string></string>
+<<<<<<< HEAD
+>>>>>>> 6fcaa3b (Initial commit)
+=======
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Sima-Scan requires access to your photo library to select and upload photos of documents and receipts. This allows you to store and manage your digital copies within the app.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AvenirLTStd-Black.otf</string>
+		<string>AvenirLTStd-Book.otf</string>
+		<string>AvenirLTStd-Roman.otf</string>
+		<string>Inter-Bold.ttf</string>
+		<string>Inter-ExtraBold.ttf</string>
+		<string>Inter-ExtraLight.ttf</string>
+		<string>Inter-Light.ttf</string>
+		<string>Inter-Medium.ttf</string>
+		<string>Inter-Regular.ttf</string>
+		<string>Inter-SemiBold.ttf</string>
+		<string>Inter-Thin.ttf</string>
+		<string>OpenSans-Bold.ttf</string>
+		<string>OpenSans-Medium.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-SemiBold.ttf</string>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+>>>>>>> f31f635 (Mobile new features)
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+<<<<<<< HEAD
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+=======
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+>>>>>>> 6fcaa3b (Initial commit)
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

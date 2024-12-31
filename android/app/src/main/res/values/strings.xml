@@ -1,0 +1,11 @@
+<resources>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <string name="app_name">Sima-Scan</string>
+=======
+    <string name="app_name">Sima</string>
+>>>>>>> 6fcaa3b (Initial commit)
+=======
+    <string name="app_name">Sima-Scan</string>
+>>>>>>> f31f635 (Mobile new features)
+</resources>

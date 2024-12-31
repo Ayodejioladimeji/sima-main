@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+rootProject.name = 'Sima-Scan'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')
+
+include ':react-native-splash-screen'   
+project(':react-native-splash-screen').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-splash-screen/android')
+
+include ':app', ':lottie-react-native'
+project(':lottie-react-native').projectDir = new File(rootProject.projectDir, '../node_modules/lottie-react-native/android')
+
+=======
+rootProject.name = 'Sima'
+=======
+rootProject.name = 'Sima-Scan'
+>>>>>>> f31f635 (Mobile new features)
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')
+>>>>>>> 6fcaa3b (Initial commit)

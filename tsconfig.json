@@ -1,0 +1,7 @@
+{
+<<<<<<< HEAD
+  "extends": "@tsconfig/react-native/tsconfig.json"
+=======
+  "extends": "@react-native/typescript-config/tsconfig.json"
+>>>>>>> 6fcaa3b (Initial commit)
+}

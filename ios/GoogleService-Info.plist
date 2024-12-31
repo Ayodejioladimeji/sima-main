@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>963627114564-3arf4nsar2mjt6ciogujtcc0kjetj7dc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.963627114564-3arf4nsar2mjt6ciogujtcc0kjetj7dc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>963627114564-b0238d48gbp6iu2lqp6k6m9bi3elj5bv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDdqvGwobvJ5scz_xFZ16_Hbra9TTUtq2E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>963627114564</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.simascanreceiptinvoice</string>
+	<key>PROJECT_ID</key>
+	<string>sima-38af2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sima-38af2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:963627114564:ios:bc9b16ad790f5526795c11</string>
+</dict>
+</plist>
